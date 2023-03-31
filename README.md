@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<!--
-**ollehaakansson/ollehaakansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 &nbsp; Studying M.Sc Information Technology at Linköpings Universitet. 
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ollehaakansson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollehaakansson&theme=dark&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<a href="[https://www.linkedin.com/in/axel-gl%C3%B6ckner-70386a223/](https://www.linkedin.com/in/olle-h%C3%A5kansson-269420247/)"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+
+<p align="center">
+</p>
